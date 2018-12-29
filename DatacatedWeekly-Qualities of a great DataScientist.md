@@ -20,7 +20,8 @@ Creativity
 [KDnuggets](https://www.kdnuggets.com/2017/03/what-makes-great-data-scientist.html)
 	- Obsessed with solving problems , not new tools
 	- Ultimate communicator
-  - maths and tools are needed to be hired as a datascientist
+	- maths and tools are needed to be hired as a datascientist 
+	
   
 
 [Dataquest](https://www.dataquest.io/blog/data-scientist-traits/)
@@ -28,11 +29,12 @@ Creativity
 	- Clarity by always asking Why and So what ?
 	- Creativity  - Think differently, laterally , better
 	- Skepticism - All models are wrong but some are useful
-	- Humility - think outside box even if it is silly
+	- Humility - think outside box even if it is silly 
+	
+	
   
   
 [Quora](https://www.quora.com/What-qualities-separate-great-data-scientists-from-good-data-scientists)
-
 	- Insatiable curiosity
 	- Healthy amount of common sense
 	- Deep rooted scepticism
